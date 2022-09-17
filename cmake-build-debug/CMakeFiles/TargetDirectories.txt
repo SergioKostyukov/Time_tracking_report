@@ -1,0 +1,3 @@
+C:/Study/My_projects_CLion/C++_engineering_bootcamp_test/cmake-build-debug/CMakeFiles/C___engineering_bootcamp_test.dir
+C:/Study/My_projects_CLion/C++_engineering_bootcamp_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Study/My_projects_CLion/C++_engineering_bootcamp_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir

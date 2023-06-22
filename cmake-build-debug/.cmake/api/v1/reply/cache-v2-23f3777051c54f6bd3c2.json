@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Study/My_projects_CLion/C++_engineering_bootcamp_test/cmake-build-debug"
+			"value" : "c:/Study/My_projects/Test_Intellias_engineering_Bootcamp/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -623,7 +623,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Study/My_projects_CLion/C++_engineering_bootcamp_test"
+			"value" : "C:/Study/My_projects/Test_Intellias_engineering_Bootcamp"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1239,7 +1239,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Study/My_projects_CLion/C++_engineering_bootcamp_test/cmake-build-debug"
+			"value" : "C:/Study/My_projects/Test_Intellias_engineering_Bootcamp/cmake-build-debug"
 		},
 		{
 			"name" : "C___engineering_bootcamp_test_IS_TOP_LEVEL",
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Study/My_projects_CLion/C++_engineering_bootcamp_test"
+			"value" : "C:/Study/My_projects/Test_Intellias_engineering_Bootcamp"
 		}
 	],
 	"kind" : "cache",

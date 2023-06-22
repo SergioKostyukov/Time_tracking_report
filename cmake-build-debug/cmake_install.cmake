@@ -1,4 +1,4 @@
-# Install script for directory: C:/Study/My_projects_CLion/C++_engineering_bootcamp_test
+# Install script for directory: C:/Study/My_projects/Test_Intellias_engineering_Bootcamp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Study/My_projects_CLion/C++_engineering_bootcamp_test/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Study/My_projects/Test_Intellias_engineering_Bootcamp/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

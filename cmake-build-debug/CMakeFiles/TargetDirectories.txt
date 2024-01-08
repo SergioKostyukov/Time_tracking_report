@@ -1,3 +1,0 @@
-C:/Study/My_projects/Test_Intellias_engineering_Bootcamp/cmake-build-debug/CMakeFiles/C___engineering_bootcamp_test.dir
-C:/Study/My_projects/Test_Intellias_engineering_Bootcamp/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Study/My_projects/Test_Intellias_engineering_Bootcamp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

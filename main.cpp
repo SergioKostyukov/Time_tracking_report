@@ -16,16 +16,16 @@ int main() {
         monthly_report(data, title);
     }
 
-    cout << "Information we have: " << endl;
+    std::cout << "Information we have: " << std::endl;
     for(auto& i : title){
-        cout << i.first << " ";
+        std::cout << i.first << " ";
     }
-    cout << endl;
+    std::cout << std::endl;
 
     vector<string> request;
     user_request(request);
     while(!check_user_request(request, title)) {
-        cout << "Error request." << endl;
+        std::cout << "Error request." << std::endl;
         request.clear();
 
         user_request(request);
